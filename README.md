@@ -1,2 +1,2 @@
-# CochlearImplantSimulation
-Cochlear Implant Processing MATLAB Simulation Program
+cochlear implant processing MATLAB simulation program
+
